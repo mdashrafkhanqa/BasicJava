@@ -19,6 +19,7 @@ public class FirstClass {
     public void test() {
         System.out.println(banana + apple);
         System.out.println(banana - apple);
+        System.out.println(banana * apple);
     }
 
 
