@@ -4,18 +4,18 @@ public class IfElseStatement {
 
     public static void main(String[] args) {
 
-        int number = 20;
+        int number = 100;
         int test = 100;
-        int banana = 10;
+        int banana = 100;
 
 
-        String Result="Result";
-        String Result2="banana";
+        String Result="ban";
+        String Result2="test";
         String Result3="Result test";
 
-        if (Result==Result2|| Result!=Result2) {
+        if (Result==Result|| Result!=Result2) {
 
-            System.out.println(test);
+            System.out.println(Result2+test);
 
         } else {
 
