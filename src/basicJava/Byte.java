@@ -3,7 +3,7 @@ package basicJava;
 public class Byte {
 
 
-    public static void main(String[] args) {
+    public static void main(StringOne[] args) {
 
         byte number;
         number = 123;

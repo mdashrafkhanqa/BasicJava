@@ -2,7 +2,7 @@ package basicJava;
 
 public class TryCatchStatement {
 
-    public static void main(String[]args){
+    public static void main(StringOne[]args){
         int banana=20;
         int bit=30;
         int lemon=25;

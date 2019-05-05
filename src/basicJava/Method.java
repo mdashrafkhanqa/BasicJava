@@ -3,7 +3,7 @@ package basicJava;
 public class Method {
 
 
-    public static void main(String[] args) {
+    public static void main(StringOne[] args) {
 
         test();
         test1();

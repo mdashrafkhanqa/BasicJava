@@ -5,7 +5,7 @@ public class Char {
     public static char Ashraf = 'A';
 
 
-    public static void main(String[] args) {
+    public static void main(StringOne[] args) {
 
         System.out.println(Ashraf);
 

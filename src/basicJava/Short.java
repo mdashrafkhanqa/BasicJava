@@ -2,7 +2,7 @@ package basicJava;
 
 public class Short {
 
-    public static void main(String[] args) {
+    public static void main(StringOne[] args) {
 
         short number = 32767;
 
