@@ -2,7 +2,7 @@ package basicJava;
 
 public class Int {
 
-    public static void main(StringOne[] args) {
+    public static void main(String [] args) {
 
        // int number range = -2147483648 to 2147483647
 

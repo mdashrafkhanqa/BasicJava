@@ -5,7 +5,7 @@ public class FirstClass {
     public static int banana = 10;
     public static int apple = 11;
 
-    public static void main(StringOne[] args) {
+    public static void main(String [] args) {
 
 
         System.out.println(banana + apple);
