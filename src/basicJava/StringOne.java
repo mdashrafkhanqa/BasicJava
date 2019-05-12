@@ -2,6 +2,8 @@ package basicJava;
 
 public class StringOne {
 
+    //If String value without variable or parametrize, its called hard coated.
+
 
 
     public static void main (String[] args){
