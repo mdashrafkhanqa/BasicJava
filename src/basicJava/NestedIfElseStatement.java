@@ -10,15 +10,15 @@ public class NestedIfElseStatement {
         if(Apple==20){
         if(Apple<30)
 
-            System.out.println("Apple is less then 30");
+            System.out.println("Apple is less than 30");
 
         if(Apple<25)
 
-            System.out.println("Apple is less then 25");
+            System.out.println("Apple is less than 25");
 
         else
 
-            System.out.println("Apple is greater then 30");
+            System.out.println("Apple is greater than 30");
         }
 
 
