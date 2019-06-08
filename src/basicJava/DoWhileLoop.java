@@ -9,7 +9,7 @@ public class DoWhileLoop {
         do {
 
             System.out.println(i+" Bangladesh");
-            i++;
+            i=i+2;
 
         }while (i<=100);
     }
