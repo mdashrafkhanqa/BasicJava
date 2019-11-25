@@ -9,9 +9,11 @@ public class Int {
 
         int number = 10;
         int number2=1;
+        int total=number+number2;
 
 
-        System.out.println(number);
+        System.out.println(number+number2);
+        System.out.println(total);
 
     }
 
