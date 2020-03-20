@@ -1,6 +1,6 @@
 package interface_demo;
 
-public class Test_Interface {
+public class InterfaceTest {
 
     /* An interface in Java, is a collection of abstract methods.
        An interface is just like Java Class, but it only has static constants and

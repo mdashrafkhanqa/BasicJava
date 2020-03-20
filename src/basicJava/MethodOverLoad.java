@@ -2,7 +2,7 @@ package basicJava;
 
 public class MethodOverLoad {
 
-    /* Method Overloading is a feature that allows a class to have more than one method
+    /* Method Overloading is a method that allows a class to have more than one method
      having the same name if their arguments or parameters are different. */
 
     public static void test(String Name){
