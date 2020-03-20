@@ -8,6 +8,7 @@ public class Inheritance extends Teacher {
     public static void main(String[] args) {
         Inheritance obj = new Inheritance();
         obj.does();
+        obj.eat();
     }
 
 

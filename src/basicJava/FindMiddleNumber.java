@@ -7,6 +7,6 @@ public class FindMiddleNumber {
         int j=100;
 
         while (++i < --j);
-        System.out.println("Here Middle Number is " +i);
+        System.out.println("Here Middle Number is: " +i);
     }
 }
